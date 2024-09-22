@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="50.281742dp"
+    android:height="83dp"
+    android:autoMirrored="true"
+    android:viewportWidth="272"
+    android:viewportHeight="448.99">
+
+    <group
+        android:name="animationGroup"
+        android:pivotX="136"
+        android:pivotY="224.5">
+        <path
+            android:fillColor="#6650a4"
+            android:pathData="M6.65,87.32c0.77,-24.8 3.21,-46.14 9.35,-47 3.59,-0.52 7.58,6.1 10.55,12.22l78.12,44.11 -11.34,12 -0.66,154.67 22,-22.67 25.33,50V131.99l10,-8 42,22.66a22,22 0,0 1,9 7.67c5.13,7.71 3.37,16.05 3,17.67l1,267a19.64,19.64 0,0 1,-9 8.38,20.26 20.26,0 0,1 -16,0L0,345.32c0,-0.08 4.82,-157 4.82,-157 0.24,-41.79 1.06,-76.08 1.83,-101Z" />
+
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M18.6,51.99c11.33,-14.37 34.42,-39 66.77,-41.8 21.66,-1.89 43.48,10.47 87.1,35.19 15.19,8.6 23.58,14.5 85,51l2,1.22"
+            android:strokeWidth="20"
+            android:strokeColor="#6650a4" />
+
+        <path
+            android:fillColor="#6650a4"
+            android:pathData="M260.5,88.32L260.5,88.32A11.5,11.5 0,0 1,272 99.82L272,384.82A11.5,11.5 0,0 1,260.5 396.32L260.5,396.32A11.5,11.5 0,0 1,249 384.82L249,99.82A11.5,11.5 0,0 1,260.5 88.32z" />
+    </group>
+</vector>
